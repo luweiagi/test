@@ -1,2 +1,4 @@
-[aaa][aaa.md]
-[bbb][bbb/bbb.md]
+[aaa](aaa.md)
+
+[bbb](bbb/bbb.md)
+
